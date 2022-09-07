@@ -1,3 +1,3 @@
-module github.com/ld-hrvoje/hugo_modules.git
+module hugo_modules
 
 go 1.18
