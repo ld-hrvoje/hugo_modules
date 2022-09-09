@@ -2,3 +2,6 @@
 [[module.mounts]]
     source = 'assets/images'
     target = 'static'
+[[module.mounts]]
+    source = 'content'
+    target = 'content'
